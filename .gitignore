@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+*.pyo
+
+venv/
+.venv/
+env/
+
+.vscode/
+.idea/
+
+.DS_Store
+
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# Faculty materials
+cursuri/
+assets/

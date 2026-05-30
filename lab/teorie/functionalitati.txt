@@ -1,0 +1,31 @@
+Functionalitati aplicatiei 
+Task Manager - Sistem de gestionare a sarcinilor personale
+
+1. Login
+    -Utilizatorul poate sa intorduca credentialele de logare cum ar fi username si parola
+
+2. Creearea unei sarcini
+    -Utilizatorul poate sa adauge o sarcina noua prin
+    introducerea informatiilor precum: titlu, descrierea, termen limita
+    prioritate si categorie
+
+3. Vizualizarea listei de sarcini
+    -Utilizatorul poate vedea toate sarcinile existente
+
+4. Modificarea unei sarcini
+    -Se pot edita informatiile unei sarcini deja existente
+
+5. Stergerea unei sarcini
+    -Sarcinile pot fi eliminate din sistem
+
+6. Marcarea unei sarcini ca finalizata
+    -Utilizatorul poate schimba starea unei sarcini din 
+    "nefinalizata" in "finalizata" sau invers
+
+7. Organizarea sarcinilor pe categorii
+    -Fiecare sarcina poate fi asociata unei categorii
+    ex: Scoala, Munca, Personal, Cumparaturi
+
+8. Filtrarea sarcinilor
+    -Utilizatorul poate filtra sarcinile dupa anumite criterii
+    ex: categorie, status, prioritate 
